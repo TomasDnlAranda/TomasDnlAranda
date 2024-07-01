@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻  About Me :<br>I am a Full Stack Developer from Argentina.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.<br>📫 How to reach me:   ...<br>🛠  Languages and Tools :<br>TypeScript  JavaScript  Next.js React  Material UI  Redux   CSS  HTML  Firebase  MySQL  NodeJS  AWS  Postman  Git <br>
+👩‍💻  About Me :<br>I am a Full Stack Developer from Argentina.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.<br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tomas-dnl)   ...<br>🛠  Languages and Tools :<br>TypeScript  JavaScript  Next.js React  Material UI  Redux   CSS  HTML  Firebase  MySQL  NodeJS  AWS  Postman  Git <br>
 
 
 ## 🌐 Socials:
